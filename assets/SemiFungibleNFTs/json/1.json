@@ -1,0 +1,37 @@
+{
+  "name": "Simone Giannelli ELITE",
+  "description": "1/SFT/metadata.json",
+  "image": "https://playerimages.fra1.digitaloceanspaces.com/gold/GIA-SIM-96.png",
+  "edition": 1,
+  "date": 1693296513023,
+  "attributes": [
+    {
+      "trait_type": "- rarity",
+      "value": "elite"
+    },
+    {
+      "trait_type": "- season",
+      "value": "2023/2024"
+    },
+    {
+      "trait_type": "- club_name",
+      "value": "sir susa vim perugia"
+    },
+    {
+      "trait_type": "- club_ID",
+      "value": ""
+    },
+    {
+      "trait_type": "- role",
+      "value": "setter"
+    },
+    {
+      "trait_type": "- nationality",
+      "value": "italian"
+    },
+    {
+      "trait_type": "- bonus",
+      "value": "1.2"
+    }
+  ]
+}

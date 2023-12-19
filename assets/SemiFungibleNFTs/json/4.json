@@ -1,0 +1,37 @@
+{
+  "name": "Yoandy Leal ELITE",
+  "description": "15/SFT/metadata.json",
+  "image": "https://playerimages.fra1.digitaloceanspaces.com/gold/LEA-YAN-98.png",
+  "edition": 1,
+  "date": 1693296513023,
+  "attributes": [
+    {
+      "trait_type": "- rarity",
+      "value": "elite"
+    },
+    {
+      "trait_type": "- season",
+      "value": "2023/2024"
+    },
+    {
+      "trait_type": "- club_name",
+      "value": "gas sales bluenergy piacenza"
+    },
+    {
+      "trait_type": "- club_ID",
+      "value": ""
+    },
+    {
+      "trait_type": "- role",
+      "value": "spiker"
+    },
+    {
+      "trait_type": "- nationality",
+      "value": "brazilian"
+    },
+    {
+      "trait_type": "- bonus",
+      "value": "1.2"
+    }
+  ]
+}

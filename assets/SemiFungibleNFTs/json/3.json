@@ -1,0 +1,37 @@
+{
+  "name": "Paolo Porro ELITE",
+  "description": "13/SFT/metadata.json",
+  "image": "https://playerimages.fra1.digitaloceanspaces.com/gold/POR-PAO-01.png",
+  "edition": 1,
+  "date": 1693296513023,
+  "attributes": [
+    {
+      "trait_type": "- rarity",
+      "value": "elite"
+    },
+    {
+      "trait_type": "- season",
+      "value": "2023/2024"
+    },
+    {
+      "trait_type": "- club_name",
+      "value": "allianz milano"
+    },
+    {
+      "trait_type": "- club_ID",
+      "value": ""
+    },
+    {
+      "trait_type": "- role",
+      "value": "setter"
+    },
+    {
+      "trait_type": "- nationality",
+      "value": "italian"
+    },
+    {
+      "trait_type": "- bonus",
+      "value": "1.2"
+    }
+  ]
+}

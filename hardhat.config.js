@@ -29,10 +29,16 @@ module.exports = {
             chainId: 5,
             blockConfirmations: 6,
         },
+        matic: {
+            url: process.env.POLYGON_RPC_URL,
+            accounts: [PRIVATE_KEY],
+            chainId: 80001,
+            blockConfirmations: 6
+        },
         mainnet: {
             url: process.env.MAINNET_RPC_URL,
             accounts: [PRIVATE_KEY],
-            chainId: 1,
+            chainId: 137,
             blockConfirmations: 6,
         },
     },
@@ -47,7 +53,7 @@ module.exports = {
         ],
     },
     etherscan: {
-        apiKey: ETHERSCAN_API_KEY,
+        apiKey: process.env.POLYGONSCAN_API_KEY,
     },
     gasReporter: {
         enabled: true,

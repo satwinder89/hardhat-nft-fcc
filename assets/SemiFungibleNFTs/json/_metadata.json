@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Simone Giannelli ELITE",
+        "description": "1/SFT/metadata.json",
+        "image": "https://playerimages.fra1.digitaloceanspaces.com/gold/GIA-SIM-96.png",
+        "edition": 1,
+        "date": 1693296513023,
+        "attributes": [
+            {
+                "trait_type": "- rarity",
+                "value": "elite"
+            },
+            {
+                "trait_type": "- season",
+                "value": "2023/2024"
+            },
+            {
+                "trait_type": "- club_name",
+                "value": "sir susa vim perugia"
+            },
+            {
+                "trait_type": "- club_ID",
+                "value": ""
+            },
+            {
+                "trait_type": "- role",
+                "value": "setter"
+            },
+            {
+                "trait_type": "- nationality",
+                "value": "italian"
+            },
+            {
+                "trait_type": "- bonus",
+                "value": "1.2"
+            }
+        ]
+    },
+    {
+        "name": "Yuri Romanò ELITE",
+        "description": "12/SFT/metadata.json",
+        "image": "https://playerimages.fra1.digitaloceanspaces.com/gold/ROM-YUR-97.png",
+        "edition": 1,
+        "date": 1693296513023,
+        "attributes": [
+            {
+                "trait_type": "- rarity",
+                "value": "elite"
+            },
+            {
+                "trait_type": "- season",
+                "value": "2023/2024"
+            },
+            {
+                "trait_type": "- club_name",
+                "value": "gas sales bluenergy piacenza"
+            },
+            {
+                "trait_type": "- club_ID",
+                "value": ""
+            },
+            {
+                "trait_type": "- role",
+                "value": "opposite"
+            },
+            {
+                "trait_type": "- nationality",
+                "value": "italian"
+            },
+            {
+                "trait_type": "- bonus",
+                "value": "1.2"
+            }
+        ]
+    },
+    {
+        "name": "Paolo Porro ELITE",
+        "description": "13/SFT/metadata.json",
+        "image": "https://playerimages.fra1.digitaloceanspaces.com/gold/POR-PAO-01.png",
+        "edition": 1,
+        "date": 1693296513023,
+        "attributes": [
+            {
+                "trait_type": "- rarity",
+                "value": "elite"
+            },
+            {
+                "trait_type": "- season",
+                "value": "2023/2024"
+            },
+            {
+                "trait_type": "- club_name",
+                "value": "allianz milano"
+            },
+            {
+                "trait_type": "- club_ID",
+                "value": ""
+            },
+            {
+                "trait_type": "- role",
+                "value": "setter"
+            },
+            {
+                "trait_type": "- nationality",
+                "value": "italian"
+            },
+            {
+                "trait_type": "- bonus",
+                "value": "1.2"
+            }
+        ]
+    },
+    {
+        "name": "Yoandy Leal ELITE",
+        "description": "15/SFT/metadata.json",
+        "image": "https://playerimages.fra1.digitaloceanspaces.com/gold/LEA-YAN-98.png",
+        "edition": 1,
+        "date": 1693296513023,
+        "attributes": [
+            {
+                "trait_type": "- rarity",
+                "value": "elite"
+            },
+            {
+                "trait_type": "- season",
+                "value": "2023/2024"
+            },
+            {
+                "trait_type": "- club_name",
+                "value": "gas sales bluenergy piacenza"
+            },
+            {
+                "trait_type": "- club_ID",
+                "value": ""
+            },
+            {
+                "trait_type": "- role",
+                "value": "spiker"
+            },
+            {
+                "trait_type": "- nationality",
+                "value": "brazilian"
+            },
+            {
+                "trait_type": "- bonus",
+                "value": "1.2"
+            }
+        ]
+    },
+    {
+        "name": "Thomas Beretta ELITE",
+        "description": "17/SFT/metadata.json",
+        "image": "https://playerimages.fra1.digitaloceanspaces.com/gold/BER-THO-90.png",
+        "edition": 1,
+        "date": 1693296513023,
+        "attributes": [
+            {
+                "trait_type": "- rarity",
+                "value": "elite"
+            },
+            {
+                "trait_type": "- season",
+                "value": "2023/2024"
+            },
+            {
+                "trait_type": "- club_name",
+                "value": "vero volley monza"
+            },
+            {
+                "trait_type": "- club_ID",
+                "value": ""
+            },
+            {
+                "trait_type": "- role",
+                "value": "middleblocker"
+            },
+            {
+                "trait_type": "- nationality",
+                "value": "italian"
+            },
+            {
+                "trait_type": "- bonus",
+                "value": "1.2"
+            }
+        ]
+    }
+]

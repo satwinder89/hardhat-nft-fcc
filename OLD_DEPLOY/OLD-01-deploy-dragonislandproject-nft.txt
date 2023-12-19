@@ -1,0 +1,42 @@
+const { network, ethers } = require("hardhat")
+const { developmentChains } = require("../helper-hardhat-config")
+const { verify } = require("../utils/verify")
+
+module.exports = async ({ getNamedAccounts, deployments }) => {
+    const { deploy, log } = deployments
+    const { deployer } = await getNamedAccounts()
+
+    log("----------------------------------------------------")
+    // arguments = ["Dragon Island Project", "DIP", "ipfs://QmNYLzpvbHzZie5jJy3b8nnZkEtY5hxKwUESBgtLVuUdKL/"]
+    // const basicNft = await deploy("DragonIslandProject", {
+    //     from: deployer,
+    //     args: arguments,
+    //     log: true,
+    //     waitConfirmations: network.config.blockConfirmations || 1,
+    // })
+
+    // // Verify the deployment
+    // if (!developmentChains.includes(network.name) && process.env.ETHERSCAN_API_KEY) {
+    //     log("Verifying...")
+    //     await verify(basicNft.address, 'contracts/DragonIsland.sol:DragonIslandProject', arguments)
+    // }
+
+    let accounts = await ethers.getSigners()
+    let basicNft = await ethers.getContract("DragonIslandProject")
+
+    // Mint multiple NFT
+    for(let i = 0; i < 19; i++){
+        const txResponse = await basicNft.mint("0x27dEbe33bfb9B7aFc4C50D7e532E5f1438bFC5EE", 100)
+        await txResponse.wait(1)
+        console.log("i: "+ i)
+    }
+
+    // Burn Multiple NFT
+    // for (let i = 1; i < 2000; i++) {
+    //     const txResponse = await basicNft.burn(i)
+    //     await txResponse.wait(1)
+    //     console.log("Burned: "+i)
+    // }
+}
+
+module.exports.tags = ["all", "basicnft", "main"]

@@ -1,0 +1,37 @@
+{
+  "name": "Yuri Romanò UNIQUE",
+  "description": "12/NFT/metadata.json",
+  "image": "ipfs://QmeJErkWxesyLKgvX7wDSRkJf7ZFoAYuw6BiC5Rbv9s8tX/5.png",
+  "edition": 1,
+  "date": 1693296513023,
+  "attributes": [
+    {
+      "trait_type": "- rarity",
+      "value": "elite"
+    },
+    {
+      "trait_type": "- season",
+      "value": "2023/2024"
+    },
+    {
+      "trait_type": "- club_name",
+      "value": "gas sales bluenergy piacenza"
+    },
+    {
+      "trait_type": "- club_ID",
+      "value": ""
+    },
+    {
+      "trait_type": "- role",
+      "value": "opposite"
+    },
+    {
+      "trait_type": "- nationality",
+      "value": "italian"
+    },
+    {
+      "trait_type": "- bonus",
+      "value": "1.4"
+    }
+  ]
+}
